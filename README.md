@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mailootje
+- 👋 Hi, I’m Mailo
 - 👀 I’m interested in creating procuct
 - 🌱 I’m currently learning to be a Software Developer
 - 💞️ I’m looking to collaborate on ...
