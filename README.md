@@ -5,6 +5,7 @@
 🌱 I’m on a learning spree, exploring new technologies and frameworks. I believe in lifelong learning and am always eager to understand more about AI, cloud computing, and mobile app development.
 
 👯 I’m looking to collaborate on innovative projects in machine learning and IoT. If you're looking for a teammate who brings enthusiasm and insight to the table, let’s connect!
+
 📫 How to reach me: Drop me a message on GitHub or connect with me on LinkedIn.
 
 💬 Ask me about: JavaScript quirks, Python tips, and anything tech. I love discussing emerging tech trends and sharing what I’ve learned on my coding journey.
