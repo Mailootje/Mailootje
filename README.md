@@ -28,6 +28,6 @@ https://mailootje.com
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mailootje&theme=gotham&hide_border=false)
 <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mailoote&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mailootje&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=mailootj&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mailootje&icon=1&color=6)](https://visitcount.itsvg.in)
