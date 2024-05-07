@@ -21,9 +21,6 @@
 
 
 ## 🌐 Socials:
-
-You can also find me on:
-
 - **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Mailootje-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Mailootje)](https://www.instagram.com/Mailootje)
 - **TikTok**: [![TikTok Badge](https://img.shields.io/badge/-Mailootje-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@Mailootje)](https://www.tiktok.com/@Mailootje)
 - **YouTube**: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBnA8vAGe1sJHbdu5D_XTQg?style=social)](https://www.youtube.com/@Mailootje)
@@ -47,6 +44,4 @@ You can also find me on:
 ![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&icon=0&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
