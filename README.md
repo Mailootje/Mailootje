@@ -47,7 +47,5 @@ You can also find me on:
 
 ![](https://github.com/Mailootje/Mailootje/blob/output/github-contribution-grid-snake2.svg)
 
- <img src="https://github-readme-stats.vercel.app/api?username=IBatatinha&show_icons=true&theme=tokyonight" alt> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBatatinha&layout=compact&theme=tokyonight" alt>
 ---
-[![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
