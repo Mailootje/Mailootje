@@ -42,7 +42,6 @@ You can also find me on:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
