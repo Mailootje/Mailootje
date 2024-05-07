@@ -44,5 +44,7 @@ You can also find me on:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mailootje&theme=gotham&hide_border=false)
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mailootje&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
