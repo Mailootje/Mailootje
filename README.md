@@ -45,6 +45,5 @@ You can also find me on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
