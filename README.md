@@ -46,4 +46,7 @@ You can also find me on:
 
 ![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&icon=0&pretty=false" />
+</a>
