@@ -10,8 +10,6 @@
 
 💬 Ask me about: JavaScript quirks, Python tips, and anything tech. I love discussing emerging tech trends and sharing what I’ve learned on my coding journey.
 
-📝 I regularly write articles on Medium about my latest projects and key takeaways from the tech world. Check them out!
-
 🎉 Fun fact: I’m not only a tech enthusiast but also an amateur astronomer. I enjoy star gazing and tracking celestial events.
 
 🌟 I'm driven by curiosity and the thrill of solving complex problems. Let's make something awesome together!!
