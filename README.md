@@ -15,6 +15,13 @@
 
 🌟 I'm driven by curiosity and the thrill of solving complex problems. Let's make something awesome together!!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## 💰 You can help me by Donating so i can get a coffee :)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mailootje) 
 
