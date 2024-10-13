@@ -22,7 +22,7 @@
 ## 🌐 Socials:
 - **Instagram**: [![Instagram Badge](https://img.shields.io/badge/-Mailootje-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Mailootje)](https://www.instagram.com/Mailootje)
 - **TikTok**: [![TikTok Badge](https://img.shields.io/badge/-Mailootje-black?style=flat-square&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@Mailootje)](https://www.tiktok.com/@Mailootje)
-- **YouTube**: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBnA8vAGe1sJHbdu5D_XTQg?style=social)](https://www.youtube.com/@Mailootje)
+- **YouTube**: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCBnA8vAGe1sJHbdu5D_XTQg?style=social)](https://www.youtube.com/@mailootje)
 - **Twitch**: [![Twitch Status](https://img.shields.io/twitch/status/Mailootje?style=social)](https://www.twitch.tv/Mailootje)
 - **Twitter**: [![Twitter Follow](https://img.shields.io/twitter/follow/Mailootje?style=social)](https://twitter.com/Mailootje)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-Mailootje-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Mailootje)](https://www.linkedin.com/in/Mailootje)
