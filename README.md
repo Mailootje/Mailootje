@@ -79,8 +79,8 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats-two-theta-45.vercel.app/api?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats-two-theta-45.vercel.app/api/top-langs/?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
 ---
