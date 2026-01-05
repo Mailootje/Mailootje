@@ -82,7 +82,7 @@
 ![](https://github-readme-stats-two-theta-45.vercel.app/api?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-stats-two-theta-45.vercel.app/api/top-langs/?username=Mailootje&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![](https://github.com/Mailootje/Mailootje/blob/main/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Mailootje/Mailootje/output/github-snake-dark.svg)
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
 [![](https://visitcount.itsvg.in/api?id=Mailootje&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
