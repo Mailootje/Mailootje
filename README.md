@@ -1,4 +1,7 @@
 ![Header](./mailootje_header_wide.png)
+# !! LEFT GITHUB PARTLY !!
+# MOVED TO MY OWN GITLAB INSTANCE
+
 # 💫 About Me:
 👋 Hi there, I'm Mailootje!
 🔭 I’m currently working on expanding my coding skills, especially in JavaScript and Python, focusing on projects that enhance everyday productivity and solve real-world problems. I’m passionate about open source and actively contribute to projects that pique my interest.
